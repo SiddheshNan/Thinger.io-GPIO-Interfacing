@@ -4,9 +4,9 @@
 
 #define	LED_PIN 0
 
-#define USER_ID             "aimtechs"
-#define DEVICE_ID           "raspi"
-#define DEVICE_CREDENTIAL   "123456789"
+#define USER_ID             ""
+#define DEVICE_ID           ""
+#define DEVICE_CREDENTIAL   ""
 
 int main(int argc, char *argv[])
 {
